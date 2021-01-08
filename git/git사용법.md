@@ -10,7 +10,7 @@
 
 ​	`git init` : 현재 디렉토리를 기준으로 Git 저장소가 생성됨. 
 
-​	- .git 디렉토리 생성 . Git이 버전 관리를 하기 위한 메타 정보가 담겨 있음.
+​	- .git 디렉토리 생성. Git이 버전 관리를 하기 위한 메타 정보가 담겨 있음.
 
 ​	- .git 디렉토리 지우면 해당 Git 저장소의 모든 변경 이력 소실되고 일반 디렉토리로 돌아옴.
 
@@ -33,7 +33,7 @@
 
 `git remote remove <remote repo name>` : 해당 원격 저장소의 연결 제거
 
-`git remote add <remote repo name> <repo url>` 해당 원격 저장소와 연결
+`git remote add <remote repo name> <repo url>` : 해당 원격 저장소와 연결
 
 `git remote show 이름 ` : 특정 원격 저장소의 정보 확인
 
