@@ -18,7 +18,7 @@ NULL 처리 함수로
 
   등등이 있는데,
 
- MySql 에서는 NVL을 지원하지 않으므로  나는 COALESCE () 함수를 이용해서 풀었다.
+ MySQL 에서는 NVL을 지원하지 않으므로  나는 COALESCE () 함수를 이용해서 풀었다.
 
 문제 조건에서 'No Name'이 아닌 'No name'임을 주의!
 
