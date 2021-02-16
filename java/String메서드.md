@@ -1,6 +1,14 @@
-### 자주 쓰이는 String 메서드
+### String 메서드 정리
 
 
+
+### startsWith, endsWith
+
+----
+
+**boolean startsWih(String prefix)** : 비교 대상 문자열이 입력된 문자열 (prefix) 값으로 시작되는지 여부를 확인하고 boolean(true/false)값으로 리턴.
+
+**boolean endsWith(String suffix)**: 비교 대상 문자열이 입력된 문자열(suffix) 값으로 끝나는지 여부를 확인하고 boolean(true/false)값으로 리턴.
 
 ### indexOf
 
